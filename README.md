@@ -1,6 +1,6 @@
 # flashpass-decks
 
-Fichiers publics lus par l'application **FlashPass** (Android) :
+Fichiers publics lus par l'application **CardPass** (Android) :
 
 - `decks.json` — liste des decks proposés dans l'app ;
 - `*.apkg` — decks téléchargeables, importés dans AnkiDroid ;
@@ -15,8 +15,8 @@ Fichiers publics lus par l'application **FlashPass** (Android) :
 ] }
 ```
 
-`url` : deck téléchargé par FlashPass puis tendu à AnkiDroid. `ankiweb` : simple lien
+`url` : deck téléchargé par CardPass puis tendu à AnkiDroid. `ankiweb` : simple lien
 vers la fiche AnkiWeb (decks tiers, non redistribués). Les `.apkg` sont exportés depuis
 Anki **sans planification** pour rester légers.
 
-FlashPass n'est pas affilié à Anki ni à AnkiDroid.
+CardPass n'est pas affilié à Anki ni à AnkiDroid.
